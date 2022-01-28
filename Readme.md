@@ -32,4 +32,4 @@ java -jar shiroattack-1.0-SNAPSHOT-jar-with-dependencies.jar http://localhost:80
 
 参考原文：
 
-[利用shiro反序列化注入冰蝎内存马 - 先知社区 (aliyun.com)](
+[利用shiro反序列化注入冰蝎内存马 - 先知社区 (aliyun.com)](https://xz.aliyun.com/t/10696)
