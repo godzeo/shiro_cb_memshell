@@ -14,7 +14,7 @@
 
 - 利用自定义ClassLoader的方式绕过maxHttpHeaderSize
 
-  
+  理论上存在漏洞都能写成
 
 ## 使用方法
 
